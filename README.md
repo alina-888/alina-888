@@ -5,7 +5,7 @@ First-year **Software Engineering and Information Technologies** student at the 
 🌐 [raeven.me](https://raeven.me) · ✉️ khitevaa@gmail.com
 
 ### 🛠 Stack
-**Web:** Python · Django · DRF · FastAPI · JavaScript · HTML/CSS · GraphQL
+**Web:** Python · Django · DRF · FastAPI · JavaScript · HTML/CSS · GraphQL<br>
 **Other:** C# · PHP · ASP.NET · Unity · Git
 
 ### 🚀 Projects
